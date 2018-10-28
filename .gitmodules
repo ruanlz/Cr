@@ -1,0 +1,3 @@
+[submodule "crm"]
+	path = crm
+	url = ../ssm.crm.git
